@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 102.823 s <<< FAILURE! - in TestSuite
+mobile.Plutus_Payzapp.ECommerceTC1.home  Time elapsed: 41.691 s  <<< FAILURE!
+java.lang.AssertionError: expected [Please enter your name] but found [Please entersss your name]
+	at mobile.Plutus_Payzapp.ECommerceTC1.home(ECommerceTC1.java:50)
+
